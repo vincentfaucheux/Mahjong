@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bac29ce40ff8fc84badd9c79abbc37f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - renderer: {instanceID: 0}
+  - OnePointImg: {fileID: 21300000, guid: af815ced9c63a664eac5b0a96ce6f896, type: 3}
+  - TwoPointsImg: {fileID: 21300000, guid: 48b11d54422f72046b1e0d1ee1f63fa3, type: 3}
+  - ThreePointsImg: {fileID: 21300000, guid: d02255366f08b64428f9abdad4a328bc, type: 3}
+  - FourPointsImg: {fileID: 21300000, guid: 85f73e61e98910249ada579a563b0a5d, type: 3}
+  - FivePointsImg: {fileID: 21300000, guid: fae6cbafb3bc38743bf0c055fe3532e9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
